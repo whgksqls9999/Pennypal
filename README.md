@@ -1,6 +1,6 @@
-# 💸 페니팔 (PennyPal) - 짠돌이 도전 서비스
+![카드_정보_확인_및_검색](https://github.com/whgksqls9999/Pennypal/assets/85666312/0c207ae4-6c80-4b7c-834b-24131e06782e)# 💸 페니팔 (PennyPal) - 짠돌이 도전 서비스
 
-<img src="/uploads/da522261d32db560e543eb6b2fecea38/image.png" width="800px" />
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/4f4cc8c7-a09c-4d4e-9208-8ccae2d4bcec" width="800px" />
 
 ### ✨ 웹 서비스 소개
 
@@ -27,25 +27,27 @@ YOLO족 유행이 줄어들고 FIRE족 유행이 늘어나는 상황 속, 소비
 
 |이예원(팀장)|김민건(인프라)|김준섭|
 |:-:|:-:|:-:|
-|<img src="/uploads/e17829be52bfe57f803642a217345f7b/71091FF3-C654-4C9E-AC3B-F7482B731884__1_.jpg" width="150px" />|<img src="/uploads/6e62f322725f948651d27f81eb5ddfac/mingun.png" width="160px" />|<img src="/uploads/96a93b68832dc5201a885f21d5e22dbc/junsub.png" width="150px" />|
+|<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/91208c0d-7645-4b88-b870-e96d04d899da" width="150px" />|<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/22cdb5db-6b0f-4bdc-ae0b-78c280c539ef" width="160px" />|<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/6d4247a4-9066-49be-b4a6-c89d39e53529" width="150px" />|
 
 ### Fullstack
 
 |박시연|
 |:-:|
-|<img src="/uploads/3136f4c1ca2630ca788fd3a02f62ecd7/siyeon.png" width="150px" />|
+|<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/2acc8783-874b-47b4-ba05-99e430e6e1c2" width="150px" />|
+
 
 ### Frontend
 
 |김동학|조한빈|
 |:-:|:-:|
-|<img src="/uploads/c33e9d3a3053075d935c78d230242114/donghak.png" width="150px" />|<img src="/uploads/c626200acd6fdf4f9e6798828877dfbe/hanbin.png" width="150px" />|
+|<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/d0cdcade-4ab8-4d3e-9d5a-229bf190501f" width="150px" />|<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/f2132bae-367d-4b5a-ae71-58d8a4d2409e" width="150px" />|
 
 <hr>
 
 ## ⚙ 기술스택
 
-<img src="/uploads/5230249d3c3d48a4f67fed9d0654f9ea/기술_스택.png">
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/0b42e034-936c-4f4b-b05d-1ca9427de7de">
+
 
 <br />
 
@@ -66,42 +68,40 @@ YOLO족 유행이 줄어들고 FIRE족 유행이 늘어나는 상황 속, 소비
 # 기능 상세 소개
 
 <h3>회원가입</h3>
-<img src="/uploads/3478dddda261856141a4d00975d4ddc3/회원가입.gif" >
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/2c9646d6-fd68-418c-87d1-c2506971c746" >
 <h3>마이페이지</h3>
-<img src="/uploads/4ddeb226915d468ed92d9895fff8f0e7/마이페이지.gif">
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/7f4a5889-1229-45df-959b-81e5a2fb7fd8">
 <h3>로그인 및 출석</h3>
-<img src="/uploads/7c863a79d650be5ee525981abc53c810/로그인_및_출석.gif">
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/aed9cbf7-66b8-4542-8d5e-4d39d72eac92">
 <h3>개인지출내역 확인 및 카드 추천</h3>
-<img src="/uploads/15e3a685574cc334b342f1b71cb93691/개인_지출_내역_확인__카드_추천.gif">
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/ecb0dd83-16ea-4e7b-ac81-99a9ed4afdd5">
 <h3>팀 생성</h3>
-<img src="/uploads/af6991941cefe8240d7ea9fe2a6310fd/팀생성.gif">
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/90171374-d016-46b6-8e5f-dfa2131fb0eb">
 <h3>팀 참여</h3>
-<img src="/uploads/e62053be215a8994518a162ed7f97a72/팀정보.gif">
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/b1a52217-6d94-4943-80e0-e894d62b4c65">
 <h3>팀 정보 확인</h3>
-<img src="/uploads/e3f47e538c390bc518ac9d28a7c789b9/팀_정보_확인.gif">
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/af945558-8f8d-4aed-9d2c-6b14b5e3101e">
 <h3>팀 랭킹</h3>
-<img src="/uploads/7b63d3d054b40e2bb5402486bdeb9b4c/팀_랭킹.gif" >
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/fd3deb02-4e87-4d9f-a7ef-4d252ec5c63e" >
 <h3>마켓 구매 및 내역 확인</h3>
 <img src="/uploads/d1b9d159e62e887eeb7f7389205487d2/마켓_구매_및_내역_확인.gif" >
 <h3>카드 정보 확인 및 검색</h3>
-<img src="/uploads/41e98e959641acf8143e39fffde56000/카드_정보_확인_및_검색.gif"  >
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/0ea7a467-4687-4217-8cc1-98ee79ad0642"  >
 <h3>주식 정보 확인</h3>
-<img src="/uploads/f8ba6f1db684a04cc8a77fa757159d4f/주식_정보_확인.gif" >
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/a0fd827e-e055-4af2-bd98-baae1d1e2f1f" >
 
 <br />
 
 ## 🕹️ ERD
-
-<img src="/uploads/279ae1b26b05913f6b9ba4867952b31d/erd.png" width="900px" >
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/2e12594c-c86e-4476-ad9b-b8c49d9c7ac8" width="900px" >
 
 ## 🎨 시스템 아키텍처
 
-<img src="/uploads/f6da2f4b90829994c8602be130f696ee/image.png" width="800px" >
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/6c55cc0b-6b50-4164-9fc4-507752a82cf6" width="800px" >
 
 <br />
 
 ## 📂 프로젝트 구성도
-
 
 <details>
   <summary>
