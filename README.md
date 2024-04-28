@@ -82,9 +82,9 @@ YOLO족 유행이 줄어들고 FIRE족 유행이 늘어나는 상황 속, 소비
 <h3>팀 정보 확인</h3>
 <img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/af945558-8f8d-4aed-9d2c-6b14b5e3101e">
 <h3>팀 랭킹</h3>
-<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/fd3deb02-4e87-4d9f-a7ef-4d252ec5c63e" >
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/fd3deb02-4e87-4d9f-a7ef-4d252ec5c63e">
 <h3>마켓 구매 및 내역 확인</h3>
-<img src="/uploads/d1b9d159e62e887eeb7f7389205487d2/마켓_구매_및_내역_확인.gif" >
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/2369a247-30ee-4d23-9482-461cd7e26a37">
 <h3>카드 정보 확인 및 검색</h3>
 <img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/0ea7a467-4687-4217-8cc1-98ee79ad0642"  >
 <h3>주식 정보 확인</h3>
@@ -96,8 +96,7 @@ YOLO족 유행이 줄어들고 FIRE족 유행이 늘어나는 상황 속, 소비
 <img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/2e12594c-c86e-4476-ad9b-b8c49d9c7ac8" width="900px" >
 
 ## 🎨 시스템 아키텍처
-
-<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/6c55cc0b-6b50-4164-9fc4-507752a82cf6" width="800px" >
+<img src="https://github.com/whgksqls9999/Pennypal/assets/85666312/ccddfd60-ec9b-4206-8801-234681d8fc7b" >
 
 <br />
 
